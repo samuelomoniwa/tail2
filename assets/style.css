@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css');
+body {
+    font-family: 'Pacifico';
+}
+
+#first {
+    color: blue;
+}
+
+#second {
+    color: red;
+}
+
+.myTitleClass {
+    color: yellow;
+}
